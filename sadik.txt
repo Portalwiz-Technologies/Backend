@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+hello sadik boy
+=======
+how are uy
+>>>>>>> Stashed changes
